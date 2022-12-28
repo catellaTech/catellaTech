@@ -1,16 +1,8 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hello,+ I'm+Gabriela!👋;I+love+the+blockchain+tech!;..and+welcome+to+my+Github😊;&font=Fira%20Code&center=true&width=700&height=110&duration=4000&pause=1050&size=40&color=f53b07">
-</h1>
-
 - 👋 Hi, I’m @catellaTech
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 🎯 2022 Goals: Learn more about web3.
-
-
-
-
 
 
 <h2 align="center"> How to reach me 📫</h2> 
