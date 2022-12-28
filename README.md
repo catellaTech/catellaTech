@@ -8,33 +8,9 @@
 - 💞️ I’m looking to collaborate on ...
 - 🎯 2022 Goals: Learn more about web3.
 
-<h2 align="center"><strong> Programming Languages & Technologies 📚🛠</strong></h2>
- 
-<p align="justify">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img src="https://img.shields.io/badge/Solidity-20232A?style=for-the-badge&logo=solidity&logoColor=414141">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
-   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
-   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-</p>
 
 
-<h2 align="center"><strong>Github Stats 📈</strong></h2>
 
-<table align="center">
-  <tr>
- <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gab0071&theme=aura&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
-    
-   <td valign="center"><img src="https://github-readme-stats.vercel.app/api?username=gab0071&theme=aura&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
-</table>
 
 
 <h2 align="center"> How to reach me 📫</h2> 
