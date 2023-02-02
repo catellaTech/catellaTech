@@ -1,10 +1,10 @@
 - 👋 Hi, We are @catellaTech.
-- 👀 I’m interested in smart contract security.
-- 🌱 I’m currently learning and working as a auditor.
+- 👀 We are interested in smart contract security.
+- 🌱 We are currently learning and working as a auditor.
 - 🎯 2023 Goals: top 100 in code4rena.
 
 
-<h2 align="center"> How to reach me 📫</h2> 
+<h2 align="center"> How to reach us!  📫</h2> 
 <h3 align="center">I'm excited I get to build, learn, and create! Feel free to message me: </h3> 
 <div align="center">
 
