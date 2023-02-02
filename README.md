@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @catellaTech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 🎯 2022 Goals: Learn more about web3.
+- 👋 Hi, We are @catellaTech.
+- 👀 I’m interested in smart contract security.
+- 🌱 I’m currently learning and working as a auditor.
+- 🎯 2023 Goals: top 100 in code4rena.
 
 
 <h2 align="center"> How to reach me 📫</h2> 
@@ -10,20 +9,17 @@
 <div align="center">
 
  <p align="center">
-<a href="https://twitter.com/_gabmendez">
+<a href="https://twitter.com/CatellaTech">
   <img align="center" alt="Ajay's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/blockchain-gabriela-mendes/">
-  <img align="center" alt="Ajay's Linkdein" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/gab0071">
+<a href="https://github.com/catellaTech">
   <img align="center" alt="Ajay's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 <a href="https://t.me/gabmende">
   <img align="center" alt="Ajay's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-<a href="mailto:jeicarm7@gmail.com">
-  <img align="center" alt="Ajay's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+<a href="mailto:catellatech@gmail.com">
+  <img align="center" alt="Ajay's email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>   
 </p>                                      
 </div>
