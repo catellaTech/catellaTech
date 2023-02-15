@@ -1,6 +1,6 @@
 - 👋 Hi, We are @catellaTech.
-- 🔐 Security Researcher
-- 🚀 Web3 Builder | Solidity
+- 🔐 Security Researchers
+- 🚀 Web3 Builders | Solidity
 - 🌱 We are currently learning and working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
 
