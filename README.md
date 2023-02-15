@@ -1,8 +1,24 @@
 - 👋 Hi, We are @catellaTech.
-- 👀 We are interested in smart contract security.
+- 🔐 Security Researcher
+- 🚀 Web3 Builder | Solidity
 - 🌱 We are currently learning and working as a auditor.
 - 🎯 2023 Goals: top 100 code4rena.
 
+## Web3 Security 
+
+### Audits
+
+- Warden at Code4rena | 🚧 **To Be Released**
+
+### Solidity CTF Solutions & Writeups
+
+- [Damn Vulnerable DeFi](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
+- [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
+
+### Bootcamps
+
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
+- [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
 
 <h2 align="center"> How to reach us!  📫</h2> 
 <div align="center">
