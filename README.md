@@ -15,7 +15,7 @@
 - [Damn Vulnerable DeFi](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
 - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
 - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
-- 
+ 
 ### Bootcamps
 
 - [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
