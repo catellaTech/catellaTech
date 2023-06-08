@@ -19,7 +19,7 @@
 ### Bootcamps
 
 - [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Smart Contract Security**
-- [Smart Contract Hacking]((https://smartcontractshacking.com/) | 🚧 **Smart Contract Hacking**
+- [Smart Contract Hacking](https://smartcontractshacking.com) | 🚧 **Smart Contract Hacking**
 
 ## Github Stats 📈
 
