@@ -1,14 +1,14 @@
 - 👋 Hi, We are @catellaTech.
-- 🔐 Security Researchers
+- 🔐 Smart Contract Security Researchers
 - 🚀 Web3 Builders | Solidity
-- 🌱 We are currently learning and working as a auditor.
+- 🌱 We are currently working as a smart contract auditors.
 - 🎯 2023 Goals: top 100 code4rena.
 
 ## Web3 Security 
 
 ### Audits
 
-- Warden at Code4rena | 🚧 **To Be Released**
+- Wardens at Code4rena and Independent Smart Contract Security Researchers
 
 ### Solidity CTF Solutions & Writeups
 
@@ -18,8 +18,8 @@
  
 ### Bootcamps
 
-- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Solidity**
-- [zkIgnite](https://minaprotocol.com/) | 🚧 **To Be Released**
+- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Smart Contract Security**
+- [Smart Contract Hacking]((https://smartcontractshacking.com/) | 🚧 **Smart Contract Hacking**
 
 ## Github Stats 📈
 
