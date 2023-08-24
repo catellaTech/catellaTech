@@ -21,15 +21,6 @@
 - [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Smart Contract Security**
 - [Smart Contract Hacking](https://smartcontractshacking.com) | **Smart Contract Hacking**
 
-## Github Stats 📈
-
-<table align="center">
-  <tr>
- <td valign="top"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=catellaTech&theme=chartreuse-dark&card_width=450em)](https://github.com/anuraghazra/github-readme-stats"/></td>
-    
-<td valign="center"><img  src="https://github-readme-stats.vercel.app/api?username=catellaTech&theme=chartreuse-dark&card_width=450em&show_icons=true)](https://github.com/anuraghazra/github-readme-stats"/></td>
-</table>
-
 <h2 align="center"> How to reach us!  📫</h2> 
 <div align="center">
 
