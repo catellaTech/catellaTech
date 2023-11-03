@@ -8,7 +8,7 @@
 
 ### Audits
 
-- Wardens at Code4rena and Independent Smart Contract Security Researchers
+- Warden at [Code4rena](https://code4rena.com/@catellatech) and Independent Smart Contract Security Researchers 
 
 ### Solidity CTF Solutions & Writeups
 
