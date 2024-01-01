@@ -2,7 +2,7 @@
 - 🔐 Smart Contract Security Researchers
 - 🚀 Web3 Builders | Solidity
 - 🌱 We are currently working as a smart contract auditors.
-- 🎯 2023 Goals: top 100 code4rena.
+- 🎯 2024 Goals: ....
 
 ## Web3 Security 
 
