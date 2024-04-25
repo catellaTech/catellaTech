@@ -2,7 +2,7 @@
 - 🔐 Smart Contract Security Researchers
 - 🚀 Web3 Builders | Solidity
 - 🌱 We are currently working as a smart contract auditors.
-- 🎯 2024 Goals: top 100 leaderboard at c4 ✔️
+- 🎯 2023 Goals: top 100 leaderboard at c4 ✔️
 - 🎯 2024 Goals: Keep growing as smart contract researchers.
 
 ## Web3 Security 
