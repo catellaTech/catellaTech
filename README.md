@@ -22,6 +22,12 @@
 - [Secureum Epoch 0](https://www.secureum.xyz/epoch0) (Done after its release) | **Smart Contract Security**
 - [Smart Contract Hacking](https://smartcontractshacking.com) | **Smart Contract Hacking**
 
+### Other trainings:
+- [Smart Contract Audits, Security, and DeFi FULL Course](https://www.youtube.com/watch?v=pUWmJ86X_do&t=43844s) offered by the [Cyfrin team](https://updraft.cyfrin.io/).
+
+Additionally, another course focused more on programming to better understand Solidity, conduct tests with Foundry, and learn best practices when designing smart contracts:
+- [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course (0 - 6)](https://www.youtube.com/watch?v=umepbfKp5rI&t=4s)
+
 <h2 align="center"> How to reach us!  📫</h2> 
 <div align="center">
 
@@ -31,10 +37,6 @@
 </a>
 <a href="https://github.com/catellaTech">
   <img align="center" alt="Ajay's Github" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/catellatech">
-  <img align="center" alt="Ajay's Telegram" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
 <a href="mailto:catellatech@gmail.com">
   <img align="center" alt="Ajay's email" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>   
