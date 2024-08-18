@@ -32,7 +32,7 @@ Additionally, another course focused more on programming to better understand So
 <div align="center">
 
  <p align="center">
-<a href="https://twitter.com/0xcatellatech">
+<a href="https://twitter.com/catellatech">
   <img align="center" alt="Ajay's Twitter" width="32px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://github.com/catellaTech">
