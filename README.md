@@ -1,39 +1,40 @@
-# 🔐 catellaTech: Smart Contract Security Researchers
+# 🤖 catellaTech: Ex Smart Contract Security Researchers → Building AI Agents for Companies
 
 ## Who We Are
-👋 We're @catellaTech, a team dedicated to smart contract security research and Web3 construction.
+👋 We're @catellaTech. We used to be smart contract security researchers — now we build AI agents and automation for companies.
 
-🛡️ Specialized in Solidity and blockchain security, we're committed to strengthening the decentralized ecosystem.
+🛡️ We bring the same rigor we used auditing contracts (finding what breaks, what's exploitable, what doesn't hold up under real conditions) to designing agents that actually work in production, not just in a demo.
 
-🌟 **Achievements and Goals:**
-- ✅ 2023: Reached top 100 on the Code4rena leaderboard
-- 🎯 2024: Continue growing as smart contract security researchers and expanding our impact in Web3
+🎯 **What we're focused on now:**
+- Building AI agents and automation for companies — practical, hands-on implementations, not theory
+- Exploring niche automation (sales follow-up, support, ops) over generic horizontal tools
+- Validating with real processes before building anything "scalable"
 
-## Our Expertise
+---
 
-### 🕵️ Smart Contract Audits
-- Active Warden at [Code4rena](https://code4rena.com/@catellatech)
-- Independent smart contract security researchers
+## 🕵️ Track Record — Our Smart Contract Security Era
 
-### 🏆 Solidity CTF Solutions & Analyses
-Explore our challenge solutions:
-- [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
-- [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
-- [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
+Before AI agents, we spent our time finding vulnerabilities in code that moved real money. That track record:
 
-### 🎓 Continuous Learning
-Our commitment to ongoing education:
-- [Secureum Epoch 0](https://www.secureum.xyz/epoch0) - Smart Contract Security
-- [Smart Contract Hacking](https://smartcontractshacking.com) - Advanced Security Techniques
-- [Smart Contract Audits, Security, and DeFi FULL Course](https://www.youtube.com/watch?v=pUWmJ86X_do&t=43844s) by [Cyfrin](https://updraft.cyfrin.io/)
-- [Learn Solidity, Blockchain Development, & Smart Contracts | Powered By AI - Full Course](https://www.youtube.com/watch?v=umepbfKp5rI&t=4s)
+- ✅ 2023: Reached top 100 on the [Code4rena](https://code4rena.com/@catellatech) leaderboard, #274 all-time
+- ✅ Active Warden at Code4rena — independent smart contract security research
+- ✅ Helped secure 37 projects, with validated High and Medium severity findings
+- 🏆 Solved challenges across:
+  - [Damn Vulnerable DeFi CTF](https://github.com/catellaTech/DAMN-VULNERABLE-DEFI-CTF)
+  - [Capture The Ether CTF](https://github.com/catellaTech/CAPTURE-THE-ETHER-CTF)
+  - [Ethernaut CTF](https://github.com/catellaTech/ETHERNAUT-CTF)
+- 🎓 Trained through Secureum, Cyfrin, and other security-focused programs
+
+*This background is why we design AI agents differently — we think about what breaks and what can be exploited before we think about what's impressive in a demo.*
+
+---
 
 ## 📫 Contact Us
 
-Interested in our research or services? Reach out through:
+Interested in what we're building? Reach out through:
 
 <p align="center">
-  <a href="https://twitter.com/catellatech">
+  <a href="https://twitter.com/itsgabimaverick">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://github.com/catellaTech">
@@ -47,7 +48,7 @@ Interested in our research or services? Reach out through:
 ---
 
 <p align="center">
-  <i>Securing the decentralized future, one smart contract at a time.</i>
+  <i>From securing smart contracts to building the agents that run your operations.</i>
 </p>
 
 <!---
